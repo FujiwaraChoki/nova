@@ -6,10 +6,5 @@ Convert your Word documents to PDF.
 
 ## Installation
 
-### Windows
-
-Download latest windows release
-
-### Linux
-
-Download latest linux release
+1. Clone the Repository
+2. Compile
